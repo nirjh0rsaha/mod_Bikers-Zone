@@ -1,0 +1,14 @@
+.icon-color{
+    background-color: rgb(231, 126, 126);
+}
+
+span{
+    color: #E76F51;
+}
+.nav-item{
+    display: flex;
+    margin-right: 40px;
+}
+.pad{
+    padding-left: 10px;
+}
